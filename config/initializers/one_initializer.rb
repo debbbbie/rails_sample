@@ -1,0 +1,1 @@
+puts "I'm a costomized initizlizer"
